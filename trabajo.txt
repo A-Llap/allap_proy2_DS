@@ -9,3 +9,10 @@ jue
 vie
 sab
 dom
+
+estaciones
+
+verano
+invierno
+primavera
+otoño
