@@ -3,7 +3,6 @@
 dias de la semana
 
 lun
-
 mar
 mie
 jue
